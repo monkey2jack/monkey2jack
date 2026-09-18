@@ -24,13 +24,46 @@
 
 > *aidu, I do! AI do.* —— 一只会写代码的猴子和它的 monkey² Works
 
-| 成员 | 角色定位 | 仓库 |
-|---|---|---|
-|  **aiduMEI⚕️爱嘟优忆思** | 智能体通用智慧引擎·双引擎全自动 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
-|  **aiduPOP⚕️爱嘟泡波浪** | Hermes飞书极简定制流式卡片 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
-|  **aiduHUI⚕️爱嘟心视界** | Hermes Agent极简WebUI | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
-|  **aiduPARK⚕️爱嘟乐园** | HERMES AGENT非中文第一社区 | [www.aiduPARK.com](https://www.aidupark.com) |
-|  **aiduGPT⚕️爱嘟白月光** | 网页版免费ChatGPT化身全权限本地API | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
+<div align="center">
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">成员</th>
+      <th align="center">角色定位</th>
+      <th align="center">仓库</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>aiduMEI⚕️爱嘟优忆思</b></td>
+      <td align="left">智能体通用智慧引擎·双引擎全自动</td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduMEI"><img src="https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+    </tr>
+    <tr>
+      <td align="left"><b>aiduPOP⚕️爱嘟泡波浪</b></td>
+      <td align="left">Hermes飞书极简定制流式卡片</td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduPOP"><img src="https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+    </tr>
+    <tr>
+      <td align="left"><b>aiduHUI⚕️爱嘟心视界</b></td>
+      <td align="left">Hermes Agent极简WebUI</td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduHUI"><img src="https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+    </tr>
+    <tr>
+      <td align="left"><b>aiduPARK⚕️爱嘟乐园</b></td>
+      <td align="left">HERMES AGENT非中文第一社区</td>
+      <td align="center"><a href="https://www.aidupark.com">www.aiduPARK.com</a></td>
+    </tr>
+    <tr>
+      <td align="left"><b>aiduGPT⚕️爱嘟白月光</b></td>
+      <td align="left">网页版免费ChatGPT化身全权限本地API</td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduGPT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
 
 ## 📊 GitHub 统计
 
