@@ -26,11 +26,11 @@
 
 | 成员 | 角色定位 | 仓库 |
 |---|---|---|
-| 🧠 **aiduMEI · 爱嘟优忆思** | 智能体通用智慧引擎 · AI 大脑与记忆中枢 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
-| 💬 **aiduPOP · 爱嘟泡波浪** | Hermes 飞书双向流式交互插件 · 通讯信使 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
-| 🖥️ **aiduHUI · 爱嘟心视界** | Hermes Agent 专精智控工作台 · 操作视界 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
-| 🌳 **aiduPARK · 爱嘟乐园** | HERMES AGENT 门户与中文生态社区 | [aidupark.com](https://www.aidupark.com) |
-| ⚕️ **aiduGPT · 爱嘟白月光** | 网页版免费 ChatGPT 化身全权限本地 Agent | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
+|  **aiduMEI⚕️爱嘟优忆思** | 智能体通用智慧引擎 · AI 大脑与记忆中枢 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
+|  **aiduPOP⚕️爱嘟泡波浪** | Hermes 飞书双向流式交互插件 · 通讯信使 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
+|  **aiduHUI⚕️爱嘟心视界** | Hermes Agent 专精智控工作台 · 操作视界 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
+|  **aiduPARK⚕️爱嘟乐园** | HERMES AGENT 门户与中文生态社区 | [aidupark.com](https://www.aidupark.com) |
+|  **aiduGPT⚕️爱嘟白月光** | 网页版免费 ChatGPT 化身全权限本地 Agent | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
 
 ## 📊 GitHub 统计
 
