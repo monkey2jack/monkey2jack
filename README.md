@@ -29,7 +29,7 @@
 |  **aiduMEI⚕️爱嘟优忆思** | 智能体通用智慧引擎·双引擎全自动 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
 |  **aiduPOP⚕️爱嘟泡波浪** | Hermes飞书极简定制流式卡片 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
 |  **aiduHUI⚕️爱嘟心视界** | Hermes Agent极简WebUI | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
-|  **aiduPARK⚕️爱嘟乐园** | HERMES AGENT非中文第一社区 | [aidupark.com](https://www.aidupark.com) |
+|  **aiduPARK⚕️爱嘟乐园** | HERMES AGENT非中文第一社区 | [www.aiduPARK.com](https://www.aidupark.com) |
 |  **aiduGPT⚕️爱嘟白月光** | 网页版免费ChatGPT化身全权限本地API | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
 
 ## 📊 GitHub 统计
