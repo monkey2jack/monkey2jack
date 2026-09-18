@@ -20,17 +20,17 @@
 
 ---
 
-## 🏛️ aidu Family 矩阵
+## 🏛️ aidu Matrix 
 
-> *aidu, I do! AI do.* —— 一只会写代码的猴子和它的 monkey² Works
+> *aidu, I do! AI do.* —— 不会写代码的小猴和他的monkey² Works
 
 <div align="center">
 
 <table align="center">
   <thead>
     <tr>
-      <th align="center">成员</th>
-      <th align="center">角色定位</th>
+      <th align="center">族谱</th>
+      <th align="center">定位</th>
       <th align="center">仓库</th>
     </tr>
   </thead>
@@ -65,7 +65,7 @@
 
 </div>
 
-## 📊 GitHub 统计
+## 📊 GitHub Summary
 
 <div align="center">
   <img height="185" src="assets/stats-card.svg" alt="GitHub 概览统计"/>
