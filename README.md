@@ -10,8 +10,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/monkey2jack#-aidu-family-矩阵"><img src="https://img.shields.io/badge/AIdutopia-理想国实验场-525252?style=flat-square&labelColor=0E2038" alt="AIdutopia"/></a>
-  <a href="https://hycoforce.aidupark.com"><img src="https://img.shields.io/badge/hycoForce-超特级教练-525252?style=flat-square&labelColor=0E2038" alt="hycoForce"/></a>
+  <a href="https://aidutopia.aidupark.com/"><img src="https://img.shields.io/badge/AIdutopia-爱嘟の解忧杂货店-525252?style=flat-square&labelColor=0E2038" alt="AIdutopia"/></a>
+  <a href="https://hycoforce.aidupark.com/"><img src="https://img.shields.io/badge/hycoForce-海聚福力-525252?style=flat-square&labelColor=0E2038" alt="hycoForce"/></a>
   <img src="https://img.shields.io/badge/macOS-Apple%20Silicon-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS"/>
   <img src="https://img.shields.io/badge/Python-3.x-1F4E79?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/TypeScript-5.x-1F4E79?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
