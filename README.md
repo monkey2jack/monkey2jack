@@ -35,9 +35,9 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=monkey2jack&show_icons=true&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&icon_color=1F4E79&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=monkey2jack&layout=compact&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&langs_count=8"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=monkey2jack&hide_border=true&background=E0E7EF&currStreakLabel=1F4E79&currStreakNum=525252&sideLabels=525252&dates=8FA6BC"/>
+  <img height="185" src="assets/stats-card.svg" alt="GitHub 概览统计"/>
+  <img height="185" src="assets/langs-card.svg" alt="常用技术语言"/>
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com?user=monkey2jack&hide_border=true&background=E5ECF4&currStreakLabel=1F4E79&currStreakNum=1F4E79&sideLabels=525252&dates=525252&ring=1F4E79&fire=1F4E79" alt="GitHub 连续贡献天数"/>
 </div>
 
 ## 🐍 贡献贪吃蛇
