@@ -51,8 +51,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg"/>
-    <img src="assets/snake-light.svg" alt="contribution snake" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monkey2jack/monkey2jack/output/snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/monkey2jack/monkey2jack/output/snake-light.svg" alt="contribution snake" width="100%"/>
   </picture>
 </div>
 
