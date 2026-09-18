@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="monkey² Works — aidu, I do! AI do." width="100%"/>
+  <img src="assets/banner.png" alt="aidu, I do! AI do." width="100%"/>
 </div>
 
 <div align="center">
@@ -24,26 +24,19 @@
 
 > *aidu, I do! AI do.* —— 一只会写代码的猴子和它的 monkey² Works
 
-| 成员 | 中文名 | 角色定位 | 仓库 |
-|---|---|---|---|
-| 🧠 **aiduMEI** | 爱嘟优忆思 | 智能体通用智慧引擎 · AI 大脑与记忆中枢 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
-| 💬 **aiduPOP** | 爱嘟泡波浪 | Hermes 飞书双向流式交互插件 · 通讯信使 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
-| 🖥️ **aiduHUI** | 爱嘟心视界 | Hermes Agent 专精智控工作台 · 操作视界 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
-| 🌳 **aiduPARK** | 爱嘟乐园 | HERMES AGENT 门户与中文生态社区 | [aidupark.com](https://www.aidupark.com) |
-| ⚕️ **aiduGPT** | 爱嘟白月光 | 网页版免费 ChatGPT 化身全权限本地 Agent | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
-| 🚪 **10router** | 十号门 | 本地 AI 路由网关与仪表盘 | [![Stars](https://img.shields.io/github/stars/monkey2jack/10router?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/10router) |
-
-## 🎵 aiduPARK 官方主题曲
-
-<div align="center">
-  <a href="https://www.aidupark.com"><img src="assets/theme-song-card.svg" alt="Jump Above the Cloud — aiduPARK 主题曲" width="720"/></a>
-</div>
+| 成员 | 角色定位 | 仓库 |
+|---|---|---|
+| 🧠 **aiduMEI · 爱嘟优忆思** | 智能体通用智慧引擎 · AI 大脑与记忆中枢 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduMEI) |
+| 💬 **aiduPOP · 爱嘟泡波浪** | Hermes 飞书双向流式交互插件 · 通讯信使 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduPOP) |
+| 🖥️ **aiduHUI · 爱嘟心视界** | Hermes Agent 专精智控工作台 · 操作视界 | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduHUI) |
+| 🌳 **aiduPARK · 爱嘟乐园** | HERMES AGENT 门户与中文生态社区 | [aidupark.com](https://www.aidupark.com) |
+| ⚕️ **aiduGPT · 爱嘟白月光** | 网页版免费 ChatGPT 化身全权限本地 Agent | [![Stars](https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038)](https://github.com/monkey2jack/aiduGPT) |
 
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=monkey2jack&show_icons=true&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&icon_color=1F4E79&include_all_commits=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monkey2jack&layout=compact&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&langs_count=8"/>
+  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=monkey2jack&show_icons=true&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&icon_color=1F4E79&include_all_commits=true&count_private=true"/>
+  <img height="165" src="https://github-readme-stats.anuraghazra1.workers.dev/api/top-langs/?username=monkey2jack&layout=compact&hide_border=true&bg_color=0,E0E7EF&title_color=1F4E79&text_color=525252&langs_count=8"/>
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=monkey2jack&hide_border=true&background=E0E7EF&currStreakLabel=1F4E79&currStreakNum=525252&sideLabels=525252&dates=8FA6BC"/>
 </div>
 
