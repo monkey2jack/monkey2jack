@@ -1,0 +1,18 @@
+<svg width="1200" height="120" viewBox="0 0 1200 120" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="120" fill="none"/>
+  <g fill="#1F4E79" opacity="0.15">
+    <rect x="20" y="40" width="14" height="14" rx="3"/><rect x="40" y="40" width="14" height="14" rx="3"/><rect x="60" y="40" width="14" height="14" rx="3"/><rect x="80" y="40" width="14" height="14" rx="3"/><rect x="100" y="40" width="14" height="14" rx="3"/><rect x="120" y="40" width="14" height="14" rx="3"/><rect x="140" y="40" width="14" height="14" rx="3"/><rect x="160" y="40" width="14" height="14" rx="3"/><rect x="180" y="40" width="14" height="14" rx="3"/><rect x="200" y="40" width="14" height="14" rx="3"/><rect x="220" y="40" width="14" height="14" rx="3"/><rect x="240" y="40" width="14" height="14" rx="3"/><rect x="260" y="40" width="14" height="14" rx="3"/><rect x="280" y="40" width="14" height="14" rx="3"/><rect x="300" y="40" width="14" height="14" rx="3"/><rect x="320" y="40" width="14" height="14" rx="3"/><rect x="340" y="40" width="14" height="14" rx="3"/><rect x="360" y="40" width="14" height="14" rx="3"/>
+  </g>
+  <g>
+    <rect x="420" y="40" width="14" height="14" rx="3" fill="#1F4E79"/>
+    <rect x="440" y="40" width="14" height="14" rx="3" fill="#2E6DA4"/>
+    <rect x="460" y="40" width="14" height="14" rx="3" fill="#3D8BC9"/>
+    <rect x="480" y="40" width="14" height="14" rx="3" fill="#5AA8E0">
+      <animate attributeName="x" values="480;520;480" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <circle cx="600" cy="47" r="8" fill="#9AF7F5">
+      <animate attributeName="cx" values="600;640;600" dur="2s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+  <text x="600" y="100" text-anchor="middle" font-family="'PingFang SC',sans-serif" font-size="14" fill="#525252">🐍 贪吃蛇每日巡游中 · snake animation daily</text>
+</svg>
