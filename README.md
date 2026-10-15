@@ -6,6 +6,7 @@
   <a href="https://github.com/monkey2jack/aiduMEI"><img src="https://img.shields.io/badge/🧠%20aiduMEI-爱嘟优忆思-1F4E79?style=for-the-badge&labelColor=0E2038" alt="aiduMEI"/></a>
   <a href="https://github.com/monkey2jack/aiduPOP"><img src="https://img.shields.io/badge/💬%20aiduPOP-爱嘟泡波浪-1F4E79?style=for-the-badge&labelColor=0E2038" alt="aiduPOP"/></a>
   <a href="https://github.com/monkey2jack/aiduHUI"><img src="https://img.shields.io/badge/🖥️%20aiduHUI-爱嘟心视界-1F4E79?style=for-the-badge&labelColor=0E2038" alt="aiduHUI"/></a>
+  <a href="https://github.com/monkey2jack/aiduCAT"><img src="https://img.shields.io/badge/🐈%20aiduCAT-爱嘟猫·Claude--code%20Agent%20Texting-1F4E79?style=for-the-badge&labelColor=0E2038" alt="aiduCAT"/></a>
   <a href="https://www.aidupark.com"><img src="https://img.shields.io/badge/🌳%20aiduPARK-爱嘟乐园-9AF7F5?style=for-the-badge&labelColor=0E2038" alt="aiduPARK"/></a>
 </div>
 
@@ -49,6 +50,11 @@
       <td align="left"><b>aiduHUI☤爱嘟心视界</b></td>
       <td align="left">Hermes Agent极简WebUI</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduHUI"><img src="https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+    </tr>
+    <tr>
+      <td align="left"><b>aiduCAT☤爱嘟猫</b></td>
+      <td align="left">Claude-code Agent Texting·飞书泡波流式卡</td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduCAT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduCAT?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
     </tr>
     <tr>
       <td align="left"><b>aiduPARK☤爱嘟乐园</b></td>
