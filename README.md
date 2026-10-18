@@ -54,7 +54,7 @@
     <tr>
       <td align="left"><b>aiduCAT☤爱嘟可爱糖</b></td>
       <td align="left">Claude-code Agent Texting·飞书泡波流式卡</td>
-      <td align="center"><a href="https://github.com/monkey2jack/aiduCAT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduCAT?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
+      <td align="center"><a href="https://github.com/monkey2jack/aiduCAT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduCAT?style=flat-square&color=9AF7F5&labelColor=0E2038&v=20261018" alt="Stars"/></a></td>
     </tr>
     <tr>
       <td align="left"><b>aiduPARK☤爱嘟乐园</b></td>
