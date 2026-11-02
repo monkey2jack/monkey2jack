@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td align="left"><b>aiduPARK☤爱嘟乐园</b></td>
-      <td align="left">HERMES AGENT非中文第一社区</td>
+      <td align="left">HERMES AGENT非第一中文社区</td>
       <td align="center"><a href="https://www.aidupark.com">www.aiduPARK.com</a></td>
     </tr>
     <tr>
