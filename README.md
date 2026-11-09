@@ -7,11 +7,11 @@
 ## ✨ aidu故事
 
 <div align="center">
-  <img src="assets/aidu-story-diu.png" alt="diu" width="60%"/>
+  <img src="assets/aidu-story-diu.png" alt="diu" width="30%"/>
 </div>
 
-- <b style="color:#000000">ai</b><b style="color:#525252">du</b>——神秘的黑，吸引我们前往
-- <b style="color:#000000">d</b><b style="color:#525252">iu</b>——忧郁的灰，深念的嘟嘟
+- <b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b>——神秘的黑，吸引我们前往
+- <b style="color:#000000">d</b><b style="color:#A6A6A6">iu</b>——忧郁的灰，深念的嘟嘟
 - <b style="color:#1F4E79">深蓝</b>——蕴藏一切的大海，希望之帆的目的地
 
 <div align="center">
@@ -49,32 +49,32 @@
   </thead>
   <tbody>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">MEI</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">优忆思</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">MEI</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">优忆思</b></td>
       <td align="left">智能体通用智慧引擎·双引擎全自动</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduMEI"><img src="https://img.shields.io/github/stars/monkey2jack/aiduMEI?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
     </tr>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">POP</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">泡波浪</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">POP</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">泡波浪</b></td>
       <td align="left">Hermes飞书极简定制流式卡片</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduPOP"><img src="https://img.shields.io/github/stars/monkey2jack/aiduPOP?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
     </tr>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">HUI</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">心视界</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">HUI</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">心视界</b></td>
       <td align="left">Hermes Agent极简WebUI</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduHUI"><img src="https://img.shields.io/github/stars/monkey2jack/aiduHUI?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
     </tr>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">CAT</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">妙咪飞</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">CAT</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">妙咪飞</b></td>
       <td align="left">Coding Agent Texting·绝妙设计的迷人简洁飞书卡片</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduCAT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduCAT?style=flat-square&color=9AF7F5&labelColor=0E2038&v=20261018" alt="Stars"/></a></td>
     </tr>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">PARK</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">乐园</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">PARK</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">乐园</b></td>
       <td align="left">HERMES AGENT非第一中文社区</td>
       <td align="center"><a href="https://www.aidupark.com">www.aiduPARK.com</a></td>
     </tr>
     <tr>
-      <td align="left"><b style="color:#000000">ai</b><b style="color:#525252">du</b><b style="color:#1F4E79">GPT</b>·<b style="color:#000000">爱</b><b style="color:#525252">嘟</b><b style="color:#1F4E79">白月光</b></td>
+      <td align="left"><b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b><b style="color:#1F4E79">GPT</b>·<b style="color:#000000">爱</b><b style="color:#A6A6A6">嘟</b><b style="color:#1F4E79">白月光</b></td>
       <td align="left">网页版免费ChatGPT化身全权限本地API</td>
       <td align="center"><a href="https://github.com/monkey2jack/aiduGPT"><img src="https://img.shields.io/github/stars/monkey2jack/aiduGPT?style=flat-square&color=9AF7F5&labelColor=0E2038" alt="Stars"/></a></td>
     </tr>
