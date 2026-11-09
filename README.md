@@ -9,7 +9,7 @@
 <img src="assets/aidu-story-diu.png" alt="diu" width="15%"/>
 
 - <b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b>——神秘的黑，吸引我们前往
-- <b style="color:#000000">d</b><b style="color:#A6A6A6">iu</b>——忧郁的灰，深念的嘟嘟
+- <b style="color:#A6A6A6">du</b>——忧郁的灰，深念的嘟嘟
 - <b style="color:#1F4E79">深蓝</b>——蕴藏一切的大海，希望之帆的目的地
 
 <div align="center">
