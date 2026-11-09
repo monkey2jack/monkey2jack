@@ -6,9 +6,7 @@
 
 ## ✨ aidu故事
 
-<div align="center">
-  <img src="assets/aidu-story-diu.png" alt="diu" width="30%"/>
-</div>
+<img src="assets/aidu-story-diu.png" alt="diu" width="15%"/>
 
 - <b style="color:#000000">ai</b><b style="color:#A6A6A6">du</b>——神秘的黑，吸引我们前往
 - <b style="color:#000000">d</b><b style="color:#A6A6A6">iu</b>——忧郁的灰，深念的嘟嘟
