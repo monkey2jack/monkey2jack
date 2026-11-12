@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="assets/banner.png" alt="aidu, I do! AI do." width="100%"/>
+  <img src="assets/aidu-human-connection-20261113.png" alt="aidu, I do! AI do." width="100%"/>
 </div>
 
 ---
 
 ## ✨ aidu故事
 
-<img src="assets/aidu-story-diu.png" alt="diu" width="15%"/>
+<img src="assets/aidu-story-diu-20261113.png" alt="diu" width="15%"/>
 
-- <b style="color:#000000">ai</b>——神秘的黑，吸引我们前往
-- <b style="color:#A6A6A6">du</b>——忧郁的灰，深念的嘟嘟
-- <b style="color:#1F4E79">深蓝</b>——蕴藏一切的大海，希望之帆的目的地
+- aidu——爱嘟——无需多言
+- I do——惟吾——值此一心
+- AI do——智助——虚实融合
+- 黑色，神秘莫测；灰色，雾里看花；蓝色，蔚海希望；红色，热守初心
 
 <div align="center">
   <a href="https://github.com/monkey2jack/aiduMEI"><img src="https://img.shields.io/badge/🧠%20aiduMEI-爱嘟优忆思-1F4E79?style=for-the-badge&labelColor=0E2038" alt="aiduMEI"/></a>
